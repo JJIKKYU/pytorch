@@ -4,25 +4,25 @@
 
 직접 `말티즈`와 `러시안 블루` 사진을 각각 50개씩 크롤링해서 트레이닝했습니다.
 
-![images/m_train_1.png](readme%20m%2060b0bfbbf84c442c9aaf66d80cd2b162/m_train_1.png)
+![images/m_train_1.png](images/m_train_1.png)
 
-![images/r_train_1.png](readme%20m%2060b0bfbbf84c442c9aaf66d80cd2b162/r_train_1.png)
+![images/r_train_1.png](images/r_train_1.png)
 
 각 10개씩 다른 사진을 크롤링해 `/val` 폴더에 넣었습니다.
 
-![images/m_val.png](readme%20m%2060b0bfbbf84c442c9aaf66d80cd2b162/m_val.png)
+![images/m_val.png](images/m_val.png)
 
-![images/r_val.png](readme%20m%2060b0bfbbf84c442c9aaf66d80cd2b162/r_val.png)
+![images/r_val.png](images/r_val.png)
 
 # 트레이닝
 
-![images/train.png](readme%20m%2060b0bfbbf84c442c9aaf66d80cd2b162/train.png)
+![images/train.png](images/train.png)
 
 # 결과
 
-![images/result_1.png](readme%20m%2060b0bfbbf84c442c9aaf66d80cd2b162/result_1.png)
+![images/result_1.png](images/result_1.png)
 
-![images/result_2.png](readme%20m%2060b0bfbbf84c442c9aaf66d80cd2b162/result_2.png)
+![images/result_2.png](images/result_2.png)
 
 # 어려운 점
 
